@@ -87,7 +87,7 @@ class Post extends CI_Controller {
 
 	}
 
-	public function index($id=""){
+	public function posts($id=""){
 		
 		$url = empty($id) ? $this->url."posts/" : $this->url."posts/".$id;
 
