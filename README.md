@@ -1,5 +1,4 @@
-# api-post
-API REST desenvolvida usando CodeIgniter
+# API REST desenvolvida usando CodeIgniter
 
 É possível executar o projeto, após a instalação do PHP, usando o servidor embutido. Dentro da pasta do projeto, executar o comando no terminal: php -S localhost:8085 (ou qualquer porta liberada para usar).
 
